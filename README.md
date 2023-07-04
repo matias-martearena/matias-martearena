@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 Soy Mati, un apasionado desarrollador web fullstack con un amor por la tecnología y la programación. Mi objetivo es crear soluciones innovadoras y contribuir al mundo del código abierto.
+🚀 Un apasionado desarrollador web fullstack con un amor por la tecnología y la programación. Mi objetivo es crear soluciones innovadoras y contribuir al mundo del código abierto.
 
-💼 Actualmente, me encuentro estudiando en el desarrollo web en Digital House. Mi enfoque principal está en la creacion de aplicaciones web y mobile.
+💼 Actualmente, me encuentro estudiando desarrollo web en Digital House. Mi enfoque principal está en la creacion de aplicaciones web y mobile.
 
 🌱 Siempre estoy en busca de oportunidades para aprender y mejorar mis habilidades. Me encanta explorar nuevos lenguajes de programación y tecnologías, y compartir mi conocimiento con la comunidad.
 
