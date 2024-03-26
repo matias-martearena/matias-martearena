@@ -15,16 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 Un apasionado desarrollador web fullstack con un amor por la tecnología y la programación. Mi objetivo es crear soluciones innovadoras y contribuir al mundo del código abierto.
+🆕 Nuevo en la industria, he adquirido experiencia en proyectos web grupales y personales.
 
-💼 Me gradué de desarrollador web full stack en Digital House. Mi enfoque principal está en la creacion de aplicaciones web y mobile.
+🤵 Soy proactivo, me adapto rápidamente a nuevos entornos y estoy en constante aprendizaje. Me motiva crear soluciones web innovadoras, mejorar mis habilidades, contribuir al desarrollo de modelos de negocios exitosos y contribuir al mundo del código abierto.
 
-🌱 Siempre estoy en busca de oportunidades para aprender y mejorar mis habilidades. Me encanta explorar nuevos lenguajes de programación y tecnologías, y compartir mi conocimiento con la comunidad.
+🚀 Un apasionado desarrollador web fullstack con un amor por la tecnología y la programación.
+
+👨‍🎓 Me gradué de desarrollador web full stack en Digital House. Mi enfoque principal está en la creacion de aplicaciones web y mobile.
+
+🌱 Me encanta explorar nuevos lenguajes de programación y tecnologías, y compartir mi conocimiento con la comunidad.
 
 💡 Algunos de los lenguajes y tecnologías con los que trabajo incluyen:
-   - [HTML, CSS, JavaScript]
-   - [Node.js, Express]
-   - [React]
+   - [HTML, CSS, JavaScript, React]
+   - [Node.js, Express, MySQL]
+   - [Git, GitHub]
+   - [Scrum, Kanban, Jira]
      
 📚 Estoy abierto a colaborar en proyectos interesantes y retadores. Si tienes alguna idea en mente o necesitas ayuda con un proyecto, no dudes en contactarme.
 
