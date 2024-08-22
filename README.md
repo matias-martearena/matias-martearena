@@ -7,7 +7,7 @@
 ```typescript
 const Mati = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [Angular, React, Vite, ApiREST, GraphQL, NodeJS, Express, SQL, NoSQL],
+  tools: [Angular, React, Vite, ApiREST, NodeJS, Express, SQL, NoSQL],
   languages: [Spanish, English],
   challenges: [
     'Learning backend with Java and Spring Boot',
