@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items:center; gap: 10px;">
-<h1>Hi I'm Mati!</h1>
+<p">Hi I'm Mati!</p>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE0cjJydWpkNjUwaTB3a3U2a3d0cTBudmhteHRxaXk5M2p2OTU5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qEqiI3Oq7vBkoE236M/100.webp" alt="Coder gif" width="150" height="auto">
 </div>
 
