@@ -5,7 +5,14 @@
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhqbGNuN2IzNWo2M3JhcGZ6aWFoY2R6aHMxZ3J4cXRoMzhqYXFtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.webp" alt="Coder gif" width="40" height="auto" /> A little more about me...
 
 ```typescript
-const MATIAS_MARTEARENA = {
+interface AboutMe {
+  code: string[]
+  tools: string[]
+  languages: string[]
+  challenges: string[]
+}
+
+const MATIAS_MARTEARENA: AboutMe = {
   code: ['TypeScript', 'JavaScript', 'HTML', 'CSS'],
   tools: [
     'Vite',
