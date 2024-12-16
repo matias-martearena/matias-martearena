@@ -5,13 +5,24 @@
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhqbGNuN2IzNWo2M3JhcGZ6aWFoY2R6aHMxZ3J4cXRoMzhqYXFtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.webp" alt="Coder gif" width="40" height="auto" /> A little more about me...
 
 ```typescript
-const Mati = {
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [Angular, React, Vite, ApiREST, NodeJS, Express, SQL, NoSQL],
-  languages: [Spanish, English],
+const MATIAS_MARTEARENA = {
+  code: ['TypeScript', 'JavaScript', 'HTML', 'CSS'],
+  tools: [
+    'Vite',
+    'React',
+    'Angular',
+    'NodeJS',
+    'Express',
+    'MySQL',
+    'SQLite',
+    'MongoDB',
+  ],
+  languages: ['Spanish', 'English'],
   challenges: [
+    'Learn mobile development with React Native',
     'Learning backend with Java and Spring Boot',
-    'Learning testing with Playground'
-  ]
+    'Learning testing with Playground',
+    'Learn animations with Three.js and Anime.js',
+  ],
 }
 ```
