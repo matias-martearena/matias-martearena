@@ -23,12 +23,14 @@ const MATIAS_MARTEARENA: AboutMe = {
     'MySQL',
     'SQLite',
     'MongoDB',
+    'Vitest',
+    'React testing library'
   ],
   languages: ['Spanish', 'English'],
   challenges: [
-    'Learn mobile development with React Native',
+    'Learn mobile development with Flutter',
     'Learning backend with Java and Spring Boot',
-    'Learning testing with Playground',
+    'Learning testing with Playwright',
     'Learn animations with Three.js and Anime.js',
   ],
 }
