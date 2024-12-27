@@ -29,8 +29,8 @@ const MATIAS_MARTEARENA: AboutMe = {
   languages: ['Spanish', 'English'],
   challenges: [
     'Learn mobile development with Flutter',
-    'Learning backend with Java and Spring Boot',
-    'Learning testing with Playwright',
+    'Learn backend with Java and Spring Boot',
+    'Learn testing with Playwright',
     'Learn animations with Three.js and Anime.js',
   ],
 }
